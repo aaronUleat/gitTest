@@ -1,0 +1,26 @@
+html {
+	font-size: 130%;
+}
+
+body {
+	font-family: Rockwell, Georgia, Times, serif;
+	background-color: beige;
+}
+
+
+.container {
+	width: 920px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1{
+	font-size: 1.9em;
+	color: tomato;
+}
+
+p {
+	font-size: 1.3em;
+	color: #000;
+	line-height: 1.5em;
+}
